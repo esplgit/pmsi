@@ -4,7 +4,7 @@ services:
   pms:
     image: lb2.ectivisecloud.com/pms:latest
     # image: pms
-    restart: always
+    # restart: always
     # volumes:
     #   - ./logs/all.log:/app/all.log:rw
     # environment:
